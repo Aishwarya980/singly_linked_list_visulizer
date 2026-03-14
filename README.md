@@ -34,19 +34,8 @@ A web-based **Data Structures Visualizer** built with Python and Django that dem
 
 ---
 
-## 📷 Screenshots
 
-### Linked List Visualization
 
-![Linked List UI](images/home.png)
-
-### Insert Node Example
-
-![Insert Node](images/insert.png)
-
-### Delete Node Example
-
-![Delete Node](images/delete.png)
 
 ---
 
