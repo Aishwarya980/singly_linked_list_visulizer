@@ -35,11 +35,10 @@ A web-based **Data Structures Visualizer** built with Python and Django that dem
 ---
 
 ![image alt](https://github.com/Aishwarya980/singly_linked_list_visulizer/blob/master/image_2026-03-14_195704776.png)
-![image alt]( )
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/Aishwarya980/singly_linked_list_visulizer/blob/master/image_2026-03-14_195753881.png)
+![image alt](https://github.com/Aishwarya980/singly_linked_list_visulizer/blob/master/image_2026-03-14_195826650.png)
+![image alt](https://github.com/Aishwarya980/singly_linked_list_visulizer/blob/master/image_2026-03-14_195906258.png)
+
 
 
 
